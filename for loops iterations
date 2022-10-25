@@ -1,0 +1,42 @@
+//1.using for loop console the arrays
+//var numbers = [10,20,30,40,50]
+//for (var i=0; i < numbers.length; i++) {
+//    console.log(numbers[i])
+//};
+
+
+
+
+// //2.using for in loop in object loop
+// var person = {
+//    fname:"vicky",
+//    lname:"vignesh",
+//    age:25
+
+// };
+// for ( var x in person){
+//     console.log(person[x])
+//     };
+
+
+
+
+
+
+// //3.using foreach loop in arrays
+//  let numbers = [1,2,3,4,5,6,7]
+
+//  numbers.forEach((item, index) => {
+//     console.log(`${index} : ${item}`);
+
+//  });
+
+
+
+
+//  //4.using forof loop in arrays
+//  const array1 = ['a', 'b', 'c'];
+//  for (const element of array1) {
+//    console.log(element);
+//  };
+
